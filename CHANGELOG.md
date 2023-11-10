@@ -1,3 +1,10 @@
+# [0.3.0](https://git.lumeweb.com/LumeWeb/docs.lumeweb.com/compare/v0.2.1...v0.3.0) (2023-11-10)
+
+
+### Features
+
+* add AI generated summary to the homepage ([e232fcc](https://git.lumeweb.com/LumeWeb/docs.lumeweb.com/commit/e232fccaf844604b1f6b0a1af2b12628bb6a69ac))
+
 ## [0.2.1](https://git.lumeweb.com/LumeWeb/docs.lumeweb.com/compare/v0.2.0...v0.2.1) (2023-11-10)
 
 
