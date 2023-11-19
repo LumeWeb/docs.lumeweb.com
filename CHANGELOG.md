@@ -1,3 +1,10 @@
+## [0.4.1](https://git.lumeweb.com/LumeWeb/docs.lumeweb.com/compare/v0.4.0...v0.4.1) (2023-11-19)
+
+
+### Bug Fixes
+
+* update to reference S5 as a supported content network and technology ([0ce0a18](https://git.lumeweb.com/LumeWeb/docs.lumeweb.com/commit/0ce0a1869d5832249eeadf63991e7216f9069cd6))
+
 # [0.4.0](https://git.lumeweb.com/LumeWeb/docs.lumeweb.com/compare/v0.3.0...v0.4.0) (2023-11-15)
 
 
