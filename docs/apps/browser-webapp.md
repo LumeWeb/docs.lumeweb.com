@@ -6,7 +6,7 @@ title: Web3 Browser Web App
 
 **Link**: https://web3browser.io
 
-This is an experimental tech demo to enable HNS and ENS browsing via IPFS.
+This is an experimental tech demo to enable HNS and ENS browsing via IPFS and S5.
 
 **This demo uses the following technologies**:
 
@@ -16,7 +16,7 @@ This is an experimental tech demo to enable HNS and ENS browsing via IPFS.
 * Lavanet: https://www.lavanet.xyz
 * ETH: https://git.lumeweb.com/LumeWeb/libethsync/src/branch/develop
 * IPFS: https://github.com/ipfs/helia
-* HNS: https://github.com/handshake-org/hsd
+* S5 in TypeScript: https://git.lumeweb.com/LumeWeb/libs5/src/branch/develop
 
 **Some notes about current issues and limitations**:
 
