@@ -1,3 +1,18 @@
+# [0.4.0](https://git.lumeweb.com/LumeWeb/docs.lumeweb.com/compare/v0.3.0...v0.4.0) (2023-11-15)
+
+
+### Bug Fixes
+
+* bad redirect ([d1a052c](https://git.lumeweb.com/LumeWeb/docs.lumeweb.com/commit/d1a052c2bce749426e817291e75b23461e24dbf9))
+* broken link ([bc56dfa](https://git.lumeweb.com/LumeWeb/docs.lumeweb.com/commit/bc56dfa573a44438bd7bebdb1e4c22b7c0563544))
+* ensure trailing slashes get a redirect ([d4018c2](https://git.lumeweb.com/LumeWeb/docs.lumeweb.com/commit/d4018c2b2d51616102cadbf5633b0d722769b997))
+* formatting and header size changes ([993d384](https://git.lumeweb.com/LumeWeb/docs.lumeweb.com/commit/993d38456cfff350d7dd31174732a45de2e27caa))
+
+
+### Features
+
+* add roadmap ([7694546](https://git.lumeweb.com/LumeWeb/docs.lumeweb.com/commit/7694546aa1b19b6431f780e4e5a75e2be407d544))
+
 # [0.3.0-develop.4](https://git.lumeweb.com/LumeWeb/docs.lumeweb.com/compare/v0.3.0-develop.3...v0.3.0-develop.4) (2023-11-15)
 
 
